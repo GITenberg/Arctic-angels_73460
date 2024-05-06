@@ -1,0 +1,41 @@
+_repo: Arctic-angels_73460
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rowe, Clarence
+    aliases:
+    - Rowe, Clarence H. (Clarence Herbert)
+    - Rowe, Clarence Herbert
+    birthdate: 1878
+    deathdate: 1930
+    gutenberg_agent_id: '8113'
+    url: http://www.gutenberg.org/2009/agents/8113
+creator:
+  author:
+    agent_name: Smith, A. DeHerries
+    gutenberg_agent_id: '57080'
+    url: http://www.gutenberg.org/2009/agents/57080
+description: ''
+gutenberg_issued: '2024-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73460'
+language: en
+pgterms:marc904: https://archive.org/details/AdventureV068N0519281115
+pgterms:marc905: 20240420162113smith
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bThe Butterick Publishing Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Arctic regions -- Fiction'
+- !lcsh 'Royal North West Mounted Police (Canada) -- Fiction'
+- !lcsh 'Northwest Territories -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Arctic angels
+url: http://www.gutenberg.org/ebooks/73460
