@@ -10,12 +10,17 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '8113'
     url: http://www.gutenberg.org/2009/agents/8113
+covers:
+- cover_type: archival
+  image_path: 73460-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, A. DeHerries
     gutenberg_agent_id: '57080'
     url: http://www.gutenberg.org/2009/agents/57080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73460#Arctic-angels
 gutenberg_issued: '2024-04-25'
 gutenberg_type: Text
 identifiers:
